@@ -24,16 +24,18 @@ es6-babel
 项目地址：（使用git clone）
 
 git clone https://github.com/wyc99/zhoupin.git
+
 通过npm安装本地服务第三方依赖模块(需要已安装Node.js)，使用npm安装依赖模块可能会很慢，建议换成cnpm
 
 npm install -g cnpm --registry=http://registry.npm.taobao.org
-# 安装依赖模块
+
+ 安装依赖模块
 cnpm install
 
-# 启动服务
+启动服务
 npm run dev
 
-# 发布代码
+发布代码
 npm run build
 
 
