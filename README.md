@@ -1,6 +1,8 @@
 # zhoupin
 vue2.0+vue-router+webpack+es6仿饿了么外卖app
-线上访问地址 http://wyc99.github.io/dist/index.html
+
+
+线上预览地址 http://wyc99.github.io/dist/index.html(只有大体布局，数据无法获取，所以内容为空，建议本地安装再运行)
 
 
 Vue很轻量，易定制，比较适合移动端，很喜欢Vue写组件的方式 ^_^
@@ -15,9 +17,7 @@ vue-router
 webpack
 
 es6-babel
-截图
 
-print
 
 安装
 
